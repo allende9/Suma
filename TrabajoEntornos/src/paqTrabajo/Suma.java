@@ -27,8 +27,10 @@ public class Suma {
 		// TODO Auto-generated method stub
 
 		Suma obj = new Suma();
+		NuevaClase obj1= new NuevaClase();
 		
 		obj.visualizar();
+		obj1.metodo();
 	}
 
 }
