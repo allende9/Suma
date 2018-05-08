@@ -19,7 +19,7 @@ public class Suma {
 	}
 	
 	public void visualizar(){
-		
+		System.out.println("El usuario dos (Iluntze) hace un commmit and push pero el archivo no esta actualizado");
 		System.out.println("El resultado de la suma de " + num1 + " + " + num2 + " es de: " + total);
 	}
 	public static void main(String[] args) {
