@@ -8,8 +8,9 @@ public class Suma {
 	
 	Scanner teclado = new Scanner(System.in);
 	
+	
 	Suma(){
-		
+		System.out.println("Datos para realizar una suma");/*nuevo syso*/
 		System.out.println("Introduce un número");
 		num1 = teclado.nextInt();
 		System.out.println("Introduce otro número");
