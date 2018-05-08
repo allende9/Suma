@@ -27,11 +27,11 @@ public class Suma {
 		// TODO Auto-generated method stub
 
 		Suma obj = new Suma();
-		NuevaClase obj1= new NuevaClase();
+		
 		NuevaClase3 obj2= new NuevaClase3();
 		
 		obj.visualizar();
-		obj1.metodo();
+		
 		obj2.metodo2();
 	}
 
