@@ -19,7 +19,7 @@ public class Suma {
 	}
 	
 	public void visualizar(){
-		
+		System.out.println("El usuario1 (allende) hace un commit and push");
 		System.out.println("El resultado de la suma de " + num1 + " + " + num2 + " es de: " + total);
 	}
 	public static void main(String[] args) {
