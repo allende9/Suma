@@ -27,8 +27,6 @@ public class Suma {
 		// TODO Auto-generated method stub
 
 		Suma obj = new Suma();
-		
-		
 		obj.visualizar();
 		
 	}
