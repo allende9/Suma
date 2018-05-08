@@ -28,9 +28,9 @@ public class Suma {
 
 		Suma obj = new Suma();
 		
-		NuevaClase3 obj2= new NuevaClase3();
+		
 		obj.visualizar();
-		obj2.metodo2();
+		
 	}
 
 }
